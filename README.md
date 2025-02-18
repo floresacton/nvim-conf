@@ -1,4 +1,4 @@
 # nvim-conf
-NeoVim Config Using Lazy Package Manager
+NeoVim Configuration Using Lazy Package Manager
 
 Sym-Linked to ~/.config/nvim
