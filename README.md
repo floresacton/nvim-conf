@@ -1,2 +1,2 @@
 # nvim-config
-NeoVim Config
+NeoVim Config Using Lazy Package Manager
