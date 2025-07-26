@@ -32,6 +32,10 @@ vim.opt.shiftwidth = 4
 vim.opt.tabstop = 4
 vim.opt.softtabstop = 4
 
+-- Setup line numbers
+vim.opt.number = true
+vim.opt.relativenumber = true
+
 -- Setup lazy.nvim
 require("lazy").setup({
   spec = {
